@@ -1,0 +1,4 @@
+#ifndef SRC_INCLUDE_CONFIG_H_
+#define SRC_INCLUDE_CONFIG_H_
+
+#endif /* SRC_INCLUDE_CONFIG_H_ */
